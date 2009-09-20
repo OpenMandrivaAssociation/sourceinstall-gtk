@@ -1,7 +1,7 @@
 Name:		sourceinstall-gtk
 Summary:	GUI front end for sourceinstall
 Version:	2.5
-Release:	%{mkrel 1}
+Release:	%{mkrel 2}
 Source0:	ftp://ftp.gnu.org/gnu/%{name}/%{name}-%{version}.tar.gz
 URL:		http://www.gnu.org/software/sourceinstall 
 Group:		Development/Other
