@@ -61,3 +61,15 @@ rm -rf %{buildroot}
 %{_datadir}/%{name}
 %{_datadir}/applications/mandriva-%{name}.desktop
 %{_iconsdir}/hicolor/*/apps/%{name}.png
+
+
+%changelog
+* Sun Sep 20 2009 Thierry Vignaud <tvignaud@mandriva.com> 2.5-2mdv2010.0
++ Revision: 445166
+- rebuild
+
+* Thu Nov 06 2008 Adam Williamson <awilliamson@mandriva.org> 2.5-1mdv2009.1
++ Revision: 300356
+- import sourceinstall-gtk
+
+
